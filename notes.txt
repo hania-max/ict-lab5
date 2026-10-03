@@ -1,1 +1,2 @@
 Git is a distributed version control work.
+This is an additional change for the second commit.
